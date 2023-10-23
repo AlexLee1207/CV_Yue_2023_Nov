@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.15)  23 OCT 2023 13:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.15)  23 OCT 2023 13:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1046,13 +1046,13 @@ Package logreq Info: Writing requests to 'CV_Yue.run.xml'.
 Here is how much of TeX's memory you used:
  36454 strings out of 476024
  731266 string characters out of 5794016
- 1880382 words of memory out of 5000000
+ 1881382 words of memory out of 5000000
  56221 multiletter control sequences out of 15000+600000
  747005 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  100i,11n,95p,1217b,1779s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/cochineal/coch_qyvxxn.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands1.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-5.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cochineal/coch_kbpxlj.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/cabin/cbn_i3ioen.enc}<c:/texlive/2022/texmf-dist/fonts/type1/impallari/cabin/Cabin-Bold.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cochineal/Cochineal-Bold.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cochineal/Cochineal-Italic.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/cochineal/Cochineal-Roman.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on CV_Yue.pdf (3 pages, 1221418 bytes).
+Output written on CV_Yue.pdf (3 pages, 1221408 bytes).
 PDF statistics:
  146 PDF objects out of 1000 (max. 8388607)
  102 compressed objects within 2 object streams
